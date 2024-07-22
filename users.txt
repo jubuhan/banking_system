@@ -1,0 +1,3 @@
+{'name': 'qwe', 'phno': '123', 'adress': 'qwe', 'email': 'qwe', 'user_name': 'qwe', 'password': '123', 'AcNo': 50000001, 'Ac_balance': 10000.0}
+{'name': 'asd', 'phno': 'asd', 'adress': 'asd', 'email': 'asd', 'user_name': 'asd', 'password': '234', 'AcNo': 50000002, 'Ac_balance': 98000.0}
+{'name': 'zxc', 'phno': 'zxc', 'adress': 'zxc', 'email': 'zxc', 'user_name': 'zxc', 'password': '345', 'AcNo': 50000003, 'Ac_balance': 1000.0}
